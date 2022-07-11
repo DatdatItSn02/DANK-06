@@ -1,0 +1,141 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "Mắt Biếc",
+            "price": 19000,
+            "quantity": 1,
+            "description": "Sách mắt biếc"
+        },
+        {
+            "id": 1,
+            "name": "Thủy Thủ Mặt Dày",
+            "price": 19000,
+            "quantity": 1,
+            "description": "Truyện cổ tích trẻ em"
+        },
+        {
+            "id": 2,
+            "name": "Lego City Toys",
+            "price": 400000,
+            "quantity": 6,
+            "description": "Do choi danh cho tre em"
+        },
+        {
+            "id": 3,
+            "name": "Dung cu lam bep",
+            "price": 350000,
+            "quantity": 14,
+            "description": "dung cu danh cho nguoi noi tro"
+        },
+        {
+            "id": 4,
+            "name": "Tai nghe thoi trang",
+            "price": 500000,
+            "quantity": 21,
+            "description": "danh cho nu"
+        },
+        {
+            "id": 5,
+            "name": "Iphone 13",
+            "price": 4500000,
+            "quantity": 4,
+            "description": "Iphone mau xanh"
+        },
+        {
+            "id": 6,
+            "name": "giay the thao Vans",
+            "price": 4380000,
+            "quantity": 4,
+            "description": "giay the thao cho nam"
+        },
+        {
+            "id": 7,
+            "name": "Balo thoi trang",
+            "price": 550000,
+            "quantity": 11,
+            "description": "Balo danh cho nam"
+        },
+        {
+            "id": 8,
+            "name": "Ao thun mikenko",
+            "price": 200000,
+            "quantity": 40,
+            "description": "Ao thun danh cho nam"
+        },
+        {
+            "id": 9,
+            "name": "Iphone 13",
+            "price": 34500000,
+            "quantity": 4,
+            "description": "Iphone mau xanh"
+        }
+    ],
+    "users": [
+        {
+            "id": 0,
+            "name": "Dat Dat",
+            "email": "datdat.itsn02@gmail.com",
+            "phone": "0903457691",
+            "password": "emdeplam123456"
+        },
+        {
+            "id": 1,
+            "phone": "0909509509",
+            "password": "emdeplam123456",
+            "email": "",
+            "name": "guest 1"
+        }
+    ],
+    "orders": [
+        {
+            "id": 0,
+            "productId": 1,
+            "userName": "Dat Dat",
+            "quantity": 1,
+            "timestamp": 1645417257150
+        },
+        {
+            "id": 1,
+            "productId": 1,
+            "userName": "Dat Dat",
+            "quantity": 2,
+            "timestamp": 1645417257150
+        },
+        {
+            "id": 2,
+            "productId": 3,
+            "userName": "Dat Dat",
+            "quantity": 5,
+            "timestamp": 1645417257150
+        },
+        {
+            "id": 3,
+            "productId": 4,
+            "userName": "Dat Dat",
+            "quantity": 2,
+            "timestamp": 1645417257150
+        },
+        {
+            "id": 4,
+            "productId": 5,
+            "userName": "Dat Dat",
+            "quantity": 3,
+            "timestamp": 1645417257150
+        },
+        {
+            "id": 5,
+            "productId": 7,
+            "userName": "Dat Dat",
+            "quantity": 4,
+            "timestamp": 1645417257150
+        },
+        {
+            "id": 6,
+            "productId": 8,
+            "userName": "Dat Dat",
+            "quantity": 1,
+            "timestamp": 1645417257150
+        }
+    ]
+}
